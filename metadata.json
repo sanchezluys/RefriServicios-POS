@@ -1,0 +1,6 @@
+{
+  "name": "RefriServicios",
+  "description": "Gestión de reparaciones y servicios de refrigeración y línea blanca con inventario, historial de clientes y facturación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
