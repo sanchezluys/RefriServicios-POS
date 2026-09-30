@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Configuración para Android 15+ (API 35+) donde el modo borde a borde está completamente habilitado
+         y administrado por el sistema operativo. Se evitan APIs y atributos obsoletos como statusBarColor o navigationBarColor. -->
+    <style name="Theme.MyApplication" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowLayoutInDisplayCutoutMode">always</item>
+    </style>
+</resources>
